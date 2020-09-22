@@ -1,7 +1,3 @@
-body {
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-}
-
 html {
     position: relative;
     min-height: 100%;
@@ -18,12 +14,10 @@ main {
 }
 
 .block-header {
-    font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: bold;
 }
 
 #logo {
-    font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 30px;
     font-weight: bold;
 }
@@ -57,7 +51,6 @@ main {
 
 .about-me-header {
     margin-bottom: 33px;
-    font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 32px;
     font-weight: bold;
 }
