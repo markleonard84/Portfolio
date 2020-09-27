@@ -21,8 +21,8 @@ I used W3C Validation Service - https://validator.w3.org/ to ensure valid and co
 
 Coded using Visual Studio Code.
 
-Powered by [GitHub](http://github.com)
-git
+Powered by [GitHub](http://github.com) 
+
 [Bootstrap](https://getbootstrp.com)
 
 
