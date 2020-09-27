@@ -20,7 +20,9 @@ I used W3C Validation Service - https://validator.w3.org/ to ensure valid and co
 ![validation-service](assets/Images/validation-service.png)
 
 Coded using Visual Studio Code.
+
 Powered by [GitHub](http://github.com)
+git
 [Bootstrap](https://getbootstrp.com)
 
 
