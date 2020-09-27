@@ -17,7 +17,7 @@ https://markleonard84.github.io/Portfolio/
 
 I used W3C Validation Service - https://validator.w3.org/ to ensure valid and correct HTML.
 
-! [ HTML Validation ] ( /assets/Images/validation-service.png )
+![](assets/images/validation-service.png)
 
 
 
